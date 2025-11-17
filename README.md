@@ -1,1 +1,1 @@
-# yt-ad-void
+# Chrome YT AD Void
